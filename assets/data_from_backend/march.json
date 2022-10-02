@@ -1,0 +1,17 @@
+{"spendings-instances":[
+    {
+        "date":"10th",
+        "day": "6",
+        "type": "0",
+        "label": "Business Profit",
+        "amount": "5000"
+    },
+    {
+        "date":"11th",
+        "day": "4",
+        "type": "1",
+        "label": "Bought Carpet",
+        "amount": "5000"
+    }
+]
+}

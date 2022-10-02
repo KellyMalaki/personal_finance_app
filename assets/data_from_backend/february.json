@@ -1,0 +1,38 @@
+{"spendings-instances":[
+    {
+        "date":"5th",
+        "day": "1",
+        "type": "0",
+        "label": "Android App created",
+        "amount": "15000"
+    },
+    {
+        "date":"6th",
+        "day": "3",
+        "type": "0",
+        "label": "Selling cables",
+        "amount": "7000"
+    },
+    {
+        "date":"7th",
+        "day": "4",
+        "type": "1",
+        "label": "Vacation",
+        "amount": "9000"
+    },
+    {
+        "date":"8th",
+        "day": "0",
+        "type": "1",
+        "label": "Shirts Shopping",
+        "amount": "4500"
+    },
+    {
+        "date":"9th",
+        "day": "1",
+        "type": "1",
+        "label": "Jeans shopping",
+        "amount": "4500"
+    }
+]
+}

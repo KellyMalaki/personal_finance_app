@@ -1,0 +1,24 @@
+{"spendings-instances":[
+    {
+        "date":"17th",
+        "day": "0",
+        "type": "0",
+        "label": "Created Adam's website",
+        "amount": "16000"
+    },
+    {
+        "date":"18th",
+        "day": "1",
+        "type": "1",
+        "label": "Bought Phone",
+        "amount": "9000"
+    },
+    {
+        "date":"19th",
+        "day": "2",
+        "type": "1",
+        "label": "Bought Charger",
+        "amount": "2000"
+    }
+]
+}

@@ -1,0 +1,31 @@
+{"spendings-instances":[
+    {
+        "date":"23th",
+        "day": "4",
+        "type": "0",
+        "label": "Created Web App",
+        "amount": "9000"
+    },
+    {
+        "date":"24th",
+        "day": "5",
+        "type": "1",
+        "label": "Bought socks",
+        "amount": "3000"
+    },
+    {
+        "date":"25th",
+        "day": "0",
+        "type": "1",
+        "label": "Bought Mouse",
+        "amount": "2500"
+    },
+    {
+        "date":"26th",
+        "day": "6",
+        "type": "1",
+        "label": "Bought Keyboard",
+        "amount": "2500"
+    }
+]
+}

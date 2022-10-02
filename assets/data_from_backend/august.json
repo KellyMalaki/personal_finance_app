@@ -1,0 +1,31 @@
+{"spendings-instances":[
+    {
+        "date":"27th",
+        "day": "0",
+        "type": "0",
+        "label": "Business Profit",
+        "amount": "5000"
+    },
+    {
+        "date":"28th",
+        "day": "1",
+        "type": "0",
+        "label": "Sean's Website",
+        "amount": "6000"
+    },
+    {
+        "date":"29th",
+        "day": "2",
+        "type": "1",
+        "label": "Repaired car",
+        "amount": "6000"
+    },
+    {
+        "date":"30th",
+        "day": "3",
+        "type": "1",
+        "label": "Bought Sheets",
+        "amount": "3000"
+    }
+]
+}

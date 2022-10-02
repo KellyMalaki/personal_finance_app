@@ -1,0 +1,114 @@
+{
+    "user": {
+            "_id": "0",
+            "name": "Kelly Malaki",
+            "career": "Full-Stack Developer",
+            "img": "assets/data_from_backend/kelly_dp.jpg",
+            "balance": "22500",
+            "total_income": "135000",
+            "total_spending": "112500"
+        },
+
+    "days":[
+        {
+            "_id": "0",
+            "label": "Sunday"
+        },
+        {
+            "_id": "1",
+            "label": "Monday"
+        },
+        {
+            "_id": "2",
+            "label": "Tuesday"
+        },
+        {
+            "_id": "3",
+            "label": "Wednesday"
+        },
+        {
+            "_id": "4",
+            "label": "Thursday"
+        },
+        {
+            "_id": "5",
+            "label": "Friday"
+        },
+        {
+            "_id": "6",
+            "label": "Saturday"
+        }
+    ],
+        "years":[
+            {
+                "_id": "0",
+                "label": "2022"
+            }
+        ],
+    "months": [
+        {
+            "_id": "0",
+            "label": "January",
+            "path": "assets/data_from_backend/january.json",
+            "income": "30000",
+            "spendings": "25500",
+            "year": "0"
+        },
+        {
+            "_id": "1",
+            "label": "February",
+            "path": "assets/data_from_backend/february.json",
+            "income": "22000",
+            "spendings": "18000",
+            "year": "0"
+        },
+        {
+            "_id": "2",
+            "label": "March",
+            "path": "assets/data_from_backend/march.json",
+            "income": "5000",
+            "spendings": "5000",
+            "year": "0"
+        },
+        {
+            "_id": "3",
+            "label": "April",
+            "path": "assets/data_from_backend/april.json",
+            "income": "18000",
+            "spendings": "15000",
+            "year": "0"
+        },
+        {
+            "_id": "4",
+            "label": "May",
+            "path": "assets/data_from_backend/may.json",
+            "income": "16000",
+            "spendings": "11000",
+            "year": "0"
+        },
+        {
+            "_id": "5",
+            "label": "June",
+            "path": "assets/data_from_backend/june.json",
+            "income": "24000",
+            "spendings": "21000",
+            "year": "0"
+        },
+        {
+            "_id": "6",
+            "label": "July",
+            "path": "assets/data_from_backend/july.json",
+            "income": "9000",
+            "spendings": "8000",
+            "year": "0"
+        },
+        {
+            "_id": "7",
+            "label": "August",
+            "path": "assets/data_from_backend/august.json",
+            "income": "11000",
+            "spendings": "9000",
+            "year": "0"
+        }
+    ]
+}

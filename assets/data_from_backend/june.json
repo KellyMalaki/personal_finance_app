@@ -1,0 +1,24 @@
+{"spendings-instances":[
+    {
+        "date":"20th",
+        "day": "2",
+        "type": "0",
+        "label": "Sold old phone",
+        "amount": "4000"
+    },
+    {
+        "date":"21th",
+        "day": "6",
+        "type": "0",
+        "label": "Sold my Fridge",
+        "amount": "20000"
+    },
+    {
+        "date":"22th",
+        "day": "4",
+        "type": "1",
+        "label": "Bought TV",
+        "amount": "21000"
+    }
+]
+}

@@ -1,0 +1,38 @@
+{"spendings-instances":[
+    {
+        "date":"1st",
+        "day": "5",
+        "type": "0",
+        "label": "Business Profit",
+        "amount": "20000"
+    },
+    {
+        "date":"2nd",
+        "day": "0",
+        "type": "0",
+        "label": "Mark's Project",
+        "amount": "10000"
+    },
+    {
+        "date":"3rd",
+        "day": "4",
+        "type": "1",
+        "label": "Bought clothes",
+        "amount": "5500"
+    },
+    {
+        "date":"4th",
+        "day": "1",
+        "type": "1",
+        "label": "Paid Rent",
+        "amount": "10000"
+    },
+    {
+        "date":"10th",
+        "day": "0",
+        "type": "1",
+        "label": "Bought shoes",
+        "amount": "5000"
+    }
+]
+}
